@@ -15,4 +15,4 @@ npm run dev
 
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
-(ใส่ URL ที่นี่)https://github.com/cpe-cmu-261207/lab-07-Spsf123
+(ใส่ URL ที่นี่)https://codesandbox.io/s/goofy-tess-nijzrm
