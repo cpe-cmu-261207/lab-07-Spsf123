@@ -38,8 +38,8 @@ export default function Home() {
   const moveUp = (idx) => {
     if (idx == 0) return;
     let temp = todos[idx];
-    todos[odx] = todos[idx - 1];
-    todos[dix - 1] = temp;
+    todos[idx] = todos[idx - 1];
+    todos[idx - 1] = temp;
     setTodo([...todos]);
   };
 
